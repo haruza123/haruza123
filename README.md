@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Rizqi%20Winas&fontSize=45&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Manga%20Translator&descAlignY=55&fontColor=ffffff"/>
+  <img src="https://raw.githubusercontent.com/haruza123/haruza123/main/banner.png" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haruza123/haruza123/main/Himori.png" width="260"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Manga+Translator;UI+Designer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI+Designer;Web+Builder&center=true&width=500&height=45">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rizqi</h1>
-<h3 align="center">Frontend Developer • Manga Translator • Web Builder</h3>
+<h3 align="center">Frontend Developer • UI Designer • Web Builder</h3>
 
 <p align="center">
   <a href="https://rizqiportofolio.netlify.app/">
@@ -23,49 +19,98 @@
 
 ## 🚀 About Me
 - 💻 Fokus di **Frontend Web Development (HTML, CSS, JavaScript)**
-- 📚 Aktif dalam **translation manga & typesetting**
-- 🎨 Suka bikin **UI/UX clean + modern**
-- ⚡ Lagi ngembangin **website manga & platform upload translator**
+- 🎨 Spesialis **UI/UX clean, modern, dan user-friendly**
+- 🧩 Berpengalaman membangun **website bisnis & sistem web**
+- ⚡ Fokus ke **real-world project & scalable web apps**
 
 ---
 
 ## 🧠 Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,github,figma,vscode" />
 </p>
 
 ---
 
-## 🌐 My Projects
-
-### 📖 Manga Translation Website
-- Website baca manga dengan sistem chapter
-- Support upload & struktur JSON
-- Fokus performa + clean UI
-
-🔗 https://winastranslation.netlify.app/
+<!-- ### 💻 Frontend Development
+- HTML, CSS, JavaScript
+- Responsive Design (Mobile-first)
+- UI/UX Implementation
 
 ---
 
-### 🎨 Portfolio Website
-- Personal branding + showcase project
-- Responsive design (Mobile & Desktop)
+### ⚙️ Backend & Database
+- PHP (Laravel basic)
+- Python (basic)
+- MySQL / MariaDB
+- REST API (basic)
 
-🔗 https://rizqiportofolio.netlify.app/
+---
+
+### 🎨 Tools & Design
+- Figma, Canva
+- Git & GitHub
+- VS Code
+
+---
+
+### 📊 Additional Skills
+- Data Visualization (Tableau)
+- Microsoft Office
+
+--- -->
+
+## 🌐 My Projects
+
+### 🏥 Klinik HR System
+- Web-based Human Resource Management System
+- Mengelola data karyawan & workflow internal
+- Dashboard + sistem manajemen modern
+
+🔗 https://klinik-hr.netlify.app/
+
+---
+
+### 🍽️ Dapur Cempaka
+- Website katalog digital untuk bisnis catering
+- Integrasi WhatsApp untuk pemesanan
+- Fokus UX untuk customer conversion
+
+🔗 https://dapurcempaka.com/
+
+---
+
+### 💈 Mr Big Barbershop
+- Website layanan barbershop
+- Menampilkan layanan & lokasi cabang
+- Desain modern + branding kuat
+
+🔗 https://mrbigbarbershop.my.id/
+
+---
+
+### 📱 Asep DHC (Mobile Barbershop Service)
+- Website layanan potong rambut ke rumah
+- Sistem request layanan
+- Mobile-first design
+
+🔗 https://asep-dhc.netlify.app/
+
+---
+
+### 🛍️ Closetwear (E-Commerce Concept)
+- Website e-commerce untuk fashion brand
+- Fokus pada UI/UX & product display
+- Desain clean + modern marketplace feel
+
+🔗 https://www.closetwear.com/
 
 ---
 
 ## 🎯 Current Focus
-- 🔧 Developing **multi-user manga upload system**
-- ☁️ Belajar **backend & database (Firebase / Supabase alternative)**
-- 🖥️ Optimasi **UI/UX biar lebih hidup & profesional**
-
----
-
-## 🤝 Let's Connect
-<p>
-  <a href="https://saweria.co/JohanWinas">💖 Support Me</a>
-</p>
+- 🔧 Mengembangkan **web apps & business website**
+- ☁️ Belajar **backend & database integration**
+- 🖥️ Meningkatkan **UI/UX dan performa web**
 
 ---
 
@@ -77,4 +122,4 @@
 ---
 
 ## ⚡ Fun Fact
-> Saya membangun website manga dari nol tanpa backend awal — pure frontend + struktur file 😄
+> Saya membangun berbagai website bisnis dan sistem web secara mandiri dari nol 🚀
