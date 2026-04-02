@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Rizqi%20Winas&fontSize=45&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Manga%20Translator&descAlignY=55&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haruza123/haruza123/main/Himori.png" width="260"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Manga+Translator;UI+Designer&center=true&width=500&height=45">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rizqi</h1>
 <h3 align="center">Frontend Developer • Manga Translator • Web Builder</h3>
 
@@ -59,9 +71,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haruza123&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruza123&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haruza123&theme=tokyonight" />
 </p>
 
 ---
