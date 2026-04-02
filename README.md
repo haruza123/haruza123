@@ -18,6 +18,7 @@
 ---
 
 ## 🚀 About Me
+
 - 💻 Fokus di **Frontend Web Development (HTML, CSS, JavaScript)**
 - 🎨 Spesialis **UI/UX clean, modern, dan user-friendly**
 - 🧩 Berpengalaman membangun **website bisnis & sistem web**
@@ -26,6 +27,7 @@
 ---
 
 ## 🧠 Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,python,mysql,github,figma,vscode,wordpress" />
 </p>
@@ -59,7 +61,7 @@
 - Microsoft Office
 
 --- -->
-
+<!--
 ## 🌐 My Projects
 
 ### 🏥 Klinik HR System
@@ -103,11 +105,12 @@
 - Fokus pada UI/UX & product display
 - Desain clean + modern marketplace feel
 
-🔗 https://www.closetwear.com/
+🔗 https://www.closetwear.com/ -->
 
 ---
 
 ## 🎯 Current Focus
+
 - 🔧 Mengembangkan **web apps & business website**
 - ☁️ Belajar **backend & database integration**
 - 🖥️ Meningkatkan **UI/UX dan performa web**
@@ -115,6 +118,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haruza123&theme=tokyonight" />
 </p>
@@ -122,4 +126,12 @@
 ---
 
 ## ⚡ Fun Fact
+
 > Saya membangun berbagai website bisnis dan sistem web secara mandiri dari nol 🚀
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haruza123/haruza123/output/snake.svg" alt="Snake animation" />
+
+</p>
