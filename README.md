@@ -10,7 +10,7 @@
 <h3 align="center">Frontend Developer • UI Designer • Web Builder</h3>
 
 <p align="center">
-  <a href="https://rizqiportofolio.netlify.app/">
+  <a href="https://mrizqiw.netlify.app/">
     🌐 Portfolio
   </a>
 </p>
